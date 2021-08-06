@@ -18,6 +18,6 @@ Please read through CONTRIBUTING for a primer on how to start contributing, as w
 [Discord](https://discord.gg/4XBGHBKxdU)<br>
 [Twitter](https://twitter.com/indexcoop)<br>
 
-## Regarding DAO Analytics
+## Regarding DAO Analytics Work
 
 We are on the forefront of learning how to best support a DAO with data and analytics. DAO analytics groups are not common, but we have a belief that analytics can be a functional advantage for a DAO. The AWG is an iterative experiment to learn how to best support the DAO with best-in-class analytics.
